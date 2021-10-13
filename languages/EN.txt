@@ -1,0 +1,20 @@
+Tic Tac Toe game
+Start game
+Options
+Exit
+regulations
+do not enter text, enter numbers
+enter data
+enter coordinate Y
+enter coordinate X
+wrong move
+WINS
+you all lost
+Exit in menu
+yes
+no
+name player_1
+name player_2
+language
+Enter your name_1
+Enter your name_2
